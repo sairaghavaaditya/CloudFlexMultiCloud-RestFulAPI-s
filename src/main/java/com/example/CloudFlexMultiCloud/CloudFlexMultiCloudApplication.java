@@ -23,10 +23,10 @@ public class CloudFlexMultiCloudApplication implements CommandLineRunner {
     @Override
     public void run(String... args) {
         Long userId = 1L;
-        googleFileServices.refreshGoogleAccessToken(userId);
+        //googleFileServices.refreshGoogleAccessToken(userId);
         //googleFileServices.syncUserGoogleDriveMetadata(userId);
 
-        oneDriveFileServices.refreshOneDriveAccessToken(userId);
+        //oneDriveFileServices.refreshOneDriveAccessToken(userId);
         //oneDriveFileServices.syncUserOneDriveMetadata(userId);
     }
 }

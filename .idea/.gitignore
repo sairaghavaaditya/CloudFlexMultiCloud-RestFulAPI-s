@@ -2,5 +2,5 @@
 /shelf/
 /workspace.xml
 # Ignore real configuration file
-src/main/resources/application.properties
+src/main/resources/application-example.properties
 
