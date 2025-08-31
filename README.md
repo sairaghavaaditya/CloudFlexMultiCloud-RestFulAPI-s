@@ -1,6 +1,6 @@
 # 🧑‍💻CloudFlex Multi-Cloud RESTful APIs
 Author: Sai Raghava Aditya Madabathula
-Technologies: Java, Spring Boot, Hibernate/JPA, REST APIs, MySQL, Postman, IntelliJ IDEA
+- Technologies: Java, Spring Boot, Hibernate/JPA, REST APIs, MySQL, Postman, IntelliJ IDEA
 
 ## Overview
 
@@ -20,11 +20,10 @@ This project was developed as part of my Java Developer Intern experience at Inf
 
 ## Project Structure
 
-CloudFlexMultiCloud-RestFulAPI-s/
-│
-├── Cloud_Flex_Multi_Cloud-RestfulAPI's/   # Main Spring Boot application code
-├── Drives_API's_Configurations.pdf       # Guide for obtaining and storing access tokens
-└── README.md                             # Project documentation
+**CloudFlexMultiCloud-RestFulAPI-s**
+- Cloud_Flex_Multi_Cloud-RestfulAPI's   # Main Spring Boot application code
+- Drives_API's_Configurations.pdf       # Guide for obtaining and storing access tokens
+- README.md                             # Project documentation
 
 ## Getting Started
 
